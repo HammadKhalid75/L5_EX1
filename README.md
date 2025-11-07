@@ -14,7 +14,7 @@ Perfect for learning Android UI, `findViewById`, and reusable layouts!
 
 ## Screenshots
 
-![App Screenshot](Screenshot_2.png)  
+![App Screenshot](Screenshot_3.png)  
 *Three independent counters in action*
 
 ---
