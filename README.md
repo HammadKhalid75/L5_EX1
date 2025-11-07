@@ -36,4 +36,4 @@ Perfect for learning Android UI, `findViewById`, and reusable layouts!
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/counterapp.git
+   git clone https://github.com/HammadKhalid75/L5_EX1.git
